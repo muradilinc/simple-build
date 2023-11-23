@@ -258,7 +258,7 @@ body{
 .services-card:last-child{
 	margin-right: 0;
 }
-.services-card h2{
+.services-card h3{
 	margin: 0 0 20px 0;
 	font-weight: 700;
 	font-size: 22px;
@@ -313,7 +313,7 @@ body{
 }
 .other-card{
 	width: 305px;
-	margin: 0 33px 0 0;
+	margin: 0 33px 20px 0;
 	padding: 0 0 24px 0;
 	background: #FFF;
 	border: 1px solid #D1E0F9;
@@ -333,7 +333,7 @@ body{
 	font-size: 12px;
 	line-height: 28px;
 	color: #FFF;
-	padding: 11px 12px;
+	padding: 4px 12px;
 }
 .other-card:first-child span{
 	position: absolute;
@@ -342,7 +342,7 @@ body{
 	background: #CC23E8;
 }
 .other-card:last-child{
-	margin: 0;
+	margin: 0 0 20px 0;
 }
 .other-desc{
 	margin: 25px 0 0 0;
@@ -356,14 +356,14 @@ body{
 	font-size: 16px;
 	line-height: 28px;
 }
-.other-desc h4{
+.card-price{
 	margin: 0 0 16px 0;
 	color: #2F4B77;
 	font-weight: 600;
 	font-size: 14px;
 	line-height: 28px;
 }
-.other-card p{
+.card-desc{
 	margin: 0;
 	padding: 0 25px;
 	font-weight: 400;
